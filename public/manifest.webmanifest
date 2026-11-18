@@ -1,0 +1,10 @@
+{
+  "name": "Wonga",
+  "short_name": "Wonga",
+  "description": "Build daily habits, earn XP and grow a simulated savings wallet.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F8F2",
+  "theme_color": "#12241D",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
